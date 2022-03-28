@@ -11,6 +11,7 @@
   inputs.src-gene-master.ref   = "refs/heads/master";
   inputs.src-gene-master.owner = "gcao";
   inputs.src-gene-master.repo  = "gene-new";
+  inputs.src-gene-master.dir   = "";
   inputs.src-gene-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
