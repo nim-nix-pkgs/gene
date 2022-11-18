@@ -164,11 +164,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334489,
-        "narHash": "sha256-he466tAOQMFhDQXBJrNY6ULnpxf4rSlgq2rgwcvQRoM=",
+        "lastModified": 1668748769,
+        "narHash": "sha256-tk91X1Pfxs4jY8idqabHV8lviYvl3qvIcvFdAMGk7DE=",
         "owner": "nim-nix-pkgs",
         "repo": "gene",
-        "rev": "27a77d56c6090d56d2d8eed060131d41a1528ed6",
+        "rev": "2c5597508c1b28a04000ba8b487b50377dc4a66c",
         "type": "github"
       },
       "original": {
@@ -237,11 +237,11 @@
     "src-gene-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1666738855,
-        "narHash": "sha256-CoU0Ot2Z9+BTAwWGbeAsqDs8qfpB0s+iUctjuW3m448=",
+        "lastModified": 1667054832,
+        "narHash": "sha256-1kxAts/RUygmgdF5/fcsvJiz3zeWhs59+6xdSX8aikU=",
         "owner": "gcao",
         "repo": "gene-new",
-        "rev": "eb0b57ee206b8e827e2611b900f8f690ac194dea",
+        "rev": "023b4b77a631001fbc3121043c4204ac86b4d517",
         "type": "github"
       },
       "original": {
